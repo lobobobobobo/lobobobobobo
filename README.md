@@ -17,5 +17,5 @@ Seja bem-vindo ao meu perfil, quer um café?☕
   <img align="center" alt="luiz-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luiz-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img  align="center" alt="luiz- php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-   <img  align="rigth" alt="luiz-jhinzinho" height="120px" width="200px" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+  <img  align="left" alt="luiz-jhinzinho" height="250px" width="400px" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 <div\>
