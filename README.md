@@ -17,8 +17,9 @@ Seja bem-vindo ao meu perfil, quer um café?☕
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobobobobobo&layout=compact&theme=ocean_dark)](https://github.com/lobobobobo/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobobobobobo&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobobobobobo&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats) <img  align="rigth" alt="luiz-jhinzinho" height="150"  width="150" src="https://lol-skin.weblog.vc/img/wallpaper/tiles/Jhin_37.jpg?1747146748" />
+
 
 
  
- <img  align="left" alt="luiz-jhinzinho" height="250px" width="450px" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+
