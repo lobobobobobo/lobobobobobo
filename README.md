@@ -1,4 +1,4 @@
- (PT-BR/ENG)☕
+ (PT-BR/ENG) <img  position="rigth" alt="luiz-jhinzinho" height=" 20"  width="27" src="https://pbs.twimg.com/media/E0uxWgNWQAM8qNd.png" />
  
 Seja bem-vindo ao meu perfil, quer um café?☕
 
