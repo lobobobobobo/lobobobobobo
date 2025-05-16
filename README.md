@@ -1,5 +1,7 @@
 (PT-BR/ENG) <img  position="rigth" alt="luiz-jhinzinho" height=" 20"  width="27" src="https://pbs.twimg.com/media/E0uxWgNWQAM8qNd.png" />
- 
+
+ <img  align="center" alt="luiz-jhinzinho" height="75"  width="75" src="https://gifdb.com/images/high/cat-on-computer-pixelated-wwgzgfowv8m9zat6.gif" />
+
 Seja bem-vindo ao meu perfil, quer um café?☕
 
 - 🐱‍💻Um front-end freelancer que gosta de soluções criativas
@@ -19,7 +21,6 @@ Seja bem-vindo ao meu perfil, quer um café?☕
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobobobobobo&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-<img  align="center" alt="luiz-jhinzinho" height="100"  width="100" src="https://gifdb.com/images/high/cat-on-computer-pixelated-wwgzgfowv8m9zat6.gif" />
 
  
 
