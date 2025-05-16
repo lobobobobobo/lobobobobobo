@@ -22,7 +22,7 @@ Seja bem-vindo ao meu perfil, quer um café?☕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobobobobobo&layout=compact&theme=maroongold)](https://github.com/lobobobobo/github-readme-stats)
 
-[![Luiz Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobobobobobo&theme=maroongold)](https://github.com/lobobobobobo/github-readme-stats) 
+
 
  <a href="https://instagram.com/luiz_xl7h" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/seth_xl7." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
