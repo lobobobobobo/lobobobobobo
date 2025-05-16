@@ -1,6 +1,6 @@
 (PT-BR/ENG) <img  position="rigth" alt="luiz-jhinzinho" height=" 20"  width="27" src="https://pbs.twimg.com/media/E0uxWgNWQAM8qNd.png" />
 
- <img  align="center" alt="luiz-jhinzinho" height="75"  width="75" src="https://gifdb.com/images/high/cat-on-computer-pixelated-wwgzgfowv8m9zat6.gif" />
+ <img  align="center" alt="luiz-jhinzinho" height="50"  width="50" src="https://gifdb.com/images/high/cat-on-computer-pixelated-wwgzgfowv8m9zat6.gif" />
 
 Seja bem-vindo ao meu perfil, quer um café?☕
 
